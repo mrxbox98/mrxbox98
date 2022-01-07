@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/mrxbox98)
+![Profile views](https://komarev.com/ghpvc/?username=mrxbox98)
 ### Hello
 ![Mrxbox98's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrxbox98&count_private=true&show_icons=true&theme=tokyonight)
 <br />
