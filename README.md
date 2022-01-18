@@ -4,4 +4,4 @@
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrxbox98&count_private=true&show_icons=true&theme=tokyonight)
 <br />
-<img src="https://discord.c99.nl/widget/theme-3/279446319205187584.png" />
+<img src="https://discord.c99.nl/widget/theme-4/279446319205187584.png" />
